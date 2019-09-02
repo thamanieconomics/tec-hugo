@@ -31,7 +31,7 @@ meta_og_type = "website"
 meta_og_url = "https://hugo-serif.netlify.com"
 meta_twitter_card = "summary"
 meta_twitter_creator = "@zerostaticio"
-meta_twitter_site = "@zerostaticio"
+meta_twitter_site = "@thamanieconomics"
 [params.logo]
 alt = "Serif - A Hugo Business Theme"
 mobile = "images/logo-mobile.svg"
