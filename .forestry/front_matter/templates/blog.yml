@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: Blog TEC
+pages:
+- blog/AU-Kenya Conference.md
