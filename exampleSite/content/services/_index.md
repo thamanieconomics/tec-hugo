@@ -3,8 +3,8 @@ title: Services
 intro_image: images/undraw_selection_92i4.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
+
 ---
+# We deliver value in everything we do
 
-# Services that grow with your business
-
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We serve clients in a range of service verticals. Our clients are governments and non-government players as well as the private sector. We are a global team with local presence across continents.
