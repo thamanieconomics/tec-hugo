@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: exampleSite/static/admin
 webhook_url: https://api.stackbit.com/project/5d6d2f8951ad30001093017d/webhook/forestry
 sections:
+- type: directory
+  path: blog
+  label: Blog
+  create: all
+  match: "**/*"
+  templates:
+  - blog
 - type: document
   path: exampleSite/config.toml
   label: Config
