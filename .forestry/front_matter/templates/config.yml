@@ -92,4 +92,4 @@ fields:
   - type: include
     name: include_site_menus
     label: Site Menus
-    template: site_menus
+    template: service
