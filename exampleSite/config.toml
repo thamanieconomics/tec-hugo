@@ -33,6 +33,6 @@ meta_twitter_card = "summary"
 meta_twitter_creator = ""
 meta_twitter_site = "@thamanieconomics"
 [params.logo]
-alt = "Serif - A Hugo Business Theme"
+alt = "Thamani Economics Consulting"
 mobile = "images/logo-mobile.svg"
 standard = "/images/Thamani Economics Consulting_rgb-01.jpg"
