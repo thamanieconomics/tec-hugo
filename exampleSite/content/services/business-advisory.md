@@ -1,13 +1,13 @@
 ---
 title: Economic Policy Analysis & Advisory
-date: 2018-11-28T15:14:39+10:00
+date: 2018-11-28T05:14:39.000+00:00
 draft: false
 featured: true
 image: ''
 weight: 
 
 ---
-What does Economic Policy Analysis & Advisory entail? olent [non caelestibus](#iuvabat-limumque).
+At TEC, our consultants deliver tailored financial and economic appraisals and business cases for infrastructure as well as public service initiatives ranging from transport, health or community services.
 
 ## Regulatory & Policy Impact Analysis
 

@@ -21,7 +21,7 @@ fields:
   name: weight
   label: Weight
 pages:
+- exampleSite/content/services/business-advisory.md
 - exampleSite/content/services/accounting.md
 - exampleSite/content/services/mergers.md
 - exampleSite/content/services/business-sales.md
-- exampleSite/content/services/business-advisory.md
