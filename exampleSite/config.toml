@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "www.thamanieconomics.com"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 themesDir = "../.."
