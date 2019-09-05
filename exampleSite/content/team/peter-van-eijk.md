@@ -2,7 +2,7 @@
 title: David Kinyua
 date: 2018-11-19T00:47:58.000+00:00
 image: "/images/Full_Image.jpg"
-jobtitle: Director
+jobtitle: Consultant Economist
 linkedinurl: https://www.linkedin.com/in/davidkinyua/
 draft: false
 weight: 1
