@@ -7,16 +7,12 @@ image: ''
 weight: 
 
 ---
-At TEC, our consultants deliver tailored financial and economic appraisals and business cases for infrastructure as well as public service initiatives ranging from transport, health or community services.
+The applied economics practice is critical in assisting the development of sound policies and regulation as well as estimating the impacts of these proposals. Economic research both micro and macro complements policy-making and provides an independent lens through which decisions can be measured and justified.
 
 ## Regulatory & Policy Impact Analysis
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+At TEC we can provide regulatory and impact analysis for proposed policy development and changes as we have experience in various government sectors including transport infrastructure, health, social services and education.
 
 ## Economic Research Advisory
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+TEC can provide macroeconomic and microeconomic research to inform policy.
