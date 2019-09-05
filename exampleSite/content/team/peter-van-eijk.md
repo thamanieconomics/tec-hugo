@@ -1,6 +1,6 @@
 ---
 title: David Kinyua
-date: 2018-11-19T10:47:58+10:00
+date: 2018-11-19T00:47:58.000+00:00
 image: "/images/Full_Image.jpg"
 jobtitle: Director
 linkedinurl: https://www.linkedin.com/in/davidkinyua/
@@ -14,3 +14,5 @@ David Kinyua is a management consultant and economist with professional experien
 Kinyua currently runs this boutique economics advisory and management consulting firm, Thamani Economics Consulting focusing on performance improvement advisory, project appraisals, transport management and economic policy and analysis.
 
 Kinyua's has experience working with a range of government departments such as New South Wales Ministry of Transport, Australian Duty Free Association, Infrastructure Australia, New South Wales Ministry of Health, Health Infrastructure, Australian Capital Territory Community Services Directorate, Commonwealth Departments of Defence, Health & Ageing, Human Services, University of Botswana and Airservices Australia as well as non- government organisations such as Australian Diabetes Council, Australia Duty Free Association.
+
+Contact Kinyua today to discuss your problem on kinyua@thamanieconomics.com
