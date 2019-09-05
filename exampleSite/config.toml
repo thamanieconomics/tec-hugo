@@ -35,4 +35,4 @@ meta_twitter_site = "@thamanieconomics"
 [params.logo]
 alt = "Serif - A Hugo Business Theme"
 mobile = "images/logo-mobile.svg"
-standard = "/images/Thamani Economics Consulting_cmyk-01.jpg"
+standard = "/images/Thamani Economics Consulting_rgb-01.jpg"
