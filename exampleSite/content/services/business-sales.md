@@ -1,58 +1,26 @@
 ---
 title: Performance Improvement
-date: 2018-11-28T15:15:26+10:00
+date: 2018-11-28T05:15:26.000+00:00
 draft: false
 featured: true
 image: ''
 weight: 
 
 ---
-Performance Improvement Advisory? What is it? Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
-
-* Dente reponere dixere referre excessitque seque
-* Tacui si cui inde haec ubi trepidas
-* Coniunx nulla aut
+At TEC, we don’t just speak numbers, we also understand business operation and performance. Our consultants have backgrounds in financial and performance improvement advisory coupled with experience in operating businesses themselves. We provide performance improvement advice to private entities as well as ‘government’ business.
 
 ## Strategic Planning
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
-
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+We work with our clients to articulate their strategies in market entry, strategic reviews and blueprints as well as change and improvement planning. TEC does not have pre-packaged strategic plans that we recycle but rather, we work with you to define the strategy and communicate it in the strategic plan and develop executable blueprints to help businesses get there.
 
 ## Business Process Improvement
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+We speak BPI at TEC with our consultants ready to help your business in mapping its business processes to align to strategic and operational requirements for effectiveness. Whether it’s business process mapping or Lean methods or value stream mapping, we will work with you to deliver your business measurable process improvements.
 
 ## Supply Chain Advisory
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+TEC provides advice on logistics, value chain optimisation, sourcing, procurement and a wide range of supply chain problems that may effect the modern business. We keep abreast of most efficient and effective supply chain trends to enable us to remain relevant in providing market-ready advice in this digital age.
 
 ## Program & Change Management
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+TEC can provide program and change management capability to project and program teams in a wide range of industries from designing program charters to delivering change and impact management plans to delivering project management artefacts and templates.
