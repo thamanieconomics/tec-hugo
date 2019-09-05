@@ -1,52 +1,27 @@
 ---
 title: Project Appraisal
-date: 2018-11-18T12:33:46+10:00
+date: 2018-11-18T02:33:46.000+00:00
 draft: false
 featured: true
 weight: 1
 image: ''
 
 ---
-What is project appraisal?
+At TEC, our consultants deliver tailored financial and economic appraisals and business cases for infrastructure as well as public service initiatives ranging from transport, health or community services.
 
 ## Financial & Economic Appraisal
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Financial & economic appraisal is essential in determining costs incurred and benefits that arise from project investments in order to justify and prioritise these investments. Appraisal is an essential element of planning for new investments and is a required for major government infrastructure and large public service initiatives. The process involves analysing present and future flows of costs and benefits brought back to present values to enable comparative analysis.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Key appraisal measures that TEC can help both governments and non-government players include;
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+* Cost-benefit analysis - provides a cost-benefit ratio, net-present value, internal rate of return.
+* Cost-effectiveness analysis – common in estimating social investment benefits such as health and helps in prioritising social investments where quantifying outcomes is not easily measurable.
+* Financial return analysis – common in commercial analysis of returns to investments.
+* Feasibility studies – common to establish preliminary qualitative feasibility and merits of proposed investments.
 
 ## Business Case Development
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Thamani Economics Consulting consultants have experience in developing winning business cases and can work with you to develop your strategic business case including the necessary financial and economic appraisal and modelling.
 
-* Parens est studiisque interea
-* Pro istis mediis carnes iste nec imperat
-* Te vocas orat nisi quantumque castra
-* Gestumque crepuscula esse videntur coegit
-* Ambo videtque gerat aquae ferens vagina
-* Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Business cases are relevant and required for most large government projects and essential in private business investment planning processes and are a strategically important element of any new business or investment.
