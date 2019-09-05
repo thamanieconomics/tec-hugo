@@ -34,5 +34,5 @@ meta_twitter_creator = ""
 meta_twitter_site = "@thamanieconomics"
 [params.logo]
 alt = "Thamani Economics Consulting"
-mobile = "images/logo-mobile.svg"
-standard = "/images/Thamani Economics Consulting_rgb-01.jpg"
+mobile = "/images/Thamani Economics Consulting-01.png"
+standard = "/images/Thamani-Economics-Consulting.gif"
