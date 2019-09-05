@@ -15,4 +15,4 @@ Our consultants specialise in transport management planning and are equipped to 
 
 ## Infrastructure Financial Advisory
 
-Thamani Economis Consulting can assist in infrastructure strategic planning for infrastructure projects of any magnitude.
+Thamani Economics Consulting can assist in infrastructure strategic planning for infrastructure projects of any magnitude.
