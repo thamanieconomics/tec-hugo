@@ -7,11 +7,11 @@ menu: main
 ---
 Reach out to us today for an obligation-free discussion on your problem, we may just be able to help you solve it!
 
-<form action="https://getform.io/f/5aeb79ca-5c80-4be8-9670-196582b7f6a7" method="POST">
-
-    <input type="text" name="name">
-    <input type="email" name="email">
-    <input type="tel" name="tel">
-    <button type="submit">Send</button>
-
-</form>
+| Day | Opening Hours |	
+| --- | --- |	
+| Tuesday | 8:30am - 5:00pm |	
+| Wednesday | 8:30am - 5:00pm |	
+| Thursday | 8:30am - 5:00pm |	
+| Friday | 8:30am - 5:00pm |	
+| Saturday | 10:am - 4:00pm |	
+| Saturday | Closed |
