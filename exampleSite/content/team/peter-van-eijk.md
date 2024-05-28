@@ -15,4 +15,4 @@ Kinyua currently runs this boutique economics advisory and management consulting
 
 Kinyua's has experience working with a range of government departments such as New South Wales Ministry of Transport, Australian Duty Free Association, Infrastructure Australia, New South Wales Ministry of Health, Health Infrastructure, Australian Capital Territory Community Services Directorate, Commonwealth Departments of Defence, Health & Ageing, Human Services, University of Botswana and Airservices Australia as well as non- government organisations such as Australian Diabetes Council, Australia Duty Free Association.
 
-Contact Kinyua today to discuss your problem on _kinyua@thamanieconomics.com_
+Contact Kinyua today to discuss your problem on _kinyua@mjenzi.com_
